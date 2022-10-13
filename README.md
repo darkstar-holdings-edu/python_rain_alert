@@ -21,6 +21,7 @@ pipenv run pre-commit install -t pre-commit
 
 ## Usage
 
+- `config.json`: Create this file and add your openweather API key.
 - `main.py`: Executable to launch the application.
 
 ## License
